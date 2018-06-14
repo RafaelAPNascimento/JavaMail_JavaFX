@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/32282230/fxml-javafx-8-tableview-make-a-delete-button-in-each-row-and-delete-the-row-a
+
+http://code.makery.ch/blog/javafx-8-tableview-cell-renderer/
+
+//refs: https://stackoverflow.com/questions/16360323/javafx-table-how-to-add-components
+		
+//http://java-buddy.blogspot.com.br/2013/03/javafx-embed-button-in-tableview.html
